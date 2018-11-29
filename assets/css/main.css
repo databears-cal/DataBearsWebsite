@@ -4021,16 +4021,16 @@
 		}
 
 		.banner blockquote {
-			border-left-color: rgba(255, 255, 255, 0.25);
+			border-left-color: black;
 		}
 
 		.banner code {
-			background: rgba(255, 255, 255, 0.075);
-			border-color: rgba(255, 255, 255, 0.25);
+			background: black;
+			border-color: black;
 		}
 
 		.banner hr {
-			border-bottom-color: rgba(255, 255, 255, 0.25);
+			border-bottom-color: black;
 		}
 
 		.banner.full {
@@ -4055,7 +4055,7 @@
 			-webkit-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
-			background: #000000;
+			background: black;
 			content: '';
 			display: block;
 			height: 100%;
