@@ -4043,6 +4043,7 @@
 			padding: 0;
 			min-height: 50vh;
 			height: 50vh !important;
+			background: black;
 		}
 
 		.banner:after {
