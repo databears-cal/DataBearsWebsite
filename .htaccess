@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule "^/join" "https://databears.org/join"
